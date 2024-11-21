@@ -1,0 +1,12 @@
+# Ed-Proyecto-Traspaso-Colpensiones
+Proyecto Final ED Utilitarios Traspaso Colpensiones
+
+Michael Robi
+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
+
+Repositorio:
+https://github.com/Michael-Robi/Ed-Proyecto-Traspaso-Colpensiones.git
+
+Si se realizo cambios en el codigo y se quieren aplicar los cambios en Git Hub:
+Git > comit > "Cambio Reciente"
+Git > remote > push

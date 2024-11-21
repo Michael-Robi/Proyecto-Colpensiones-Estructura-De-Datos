@@ -1,0 +1,4 @@
+id_cotizante,nombre,edad,genero,lugarNacimiento,lugarResidencia,semanasCotizadas,fondoPensiones,institucionPublica
+1,Juan Pérez,65,M,true,Bogotá,820,true
+2,Maria López,40,F,true,Cali,120,true
+3,Carlos Ruiz,28,M,true,Cali,70,true

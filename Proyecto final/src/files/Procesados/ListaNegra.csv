@@ -1,0 +1,20 @@
+id_cotizante,cedula,nombre,edad,genero,ciudad,semanasCotizadas,declaraRenta,fondoPensiones,entidadPublica,estadoSolicitud
+2619,499614,jorge cruz,36,M,Cali,45,false,Colpensiones,Armada,Rechazado
+7611,661326,oscar vargas,38,M,Inirida,28,false,Colpensiones,Mininterior,Rechazado
+7626,520094,jorge maron,55,F,Quibdo,57,false,Colpensiones,Inpec,Rechazado
+5350,839222,cristobal mendoza,22,M,Medellin,59,false,Colpensiones,Mininterior,Rechazado
+9856,704425,patricia vargas,39,F,Santa Marta,24,true,Null,Null,Rechazado
+3235,103549,mariana soto,22,F,Cucuta,39,false,Colpensiones,Minsalud,Rechazado
+2322,983263,ana pinto,32,F,Manizales,50,true,Colpensiones,Null,Rechazado
+3540,631993,victor flores,24,M,Leticia,59,false,Colpensiones,Armada,Rechazado
+2295,795762,carmen juarez,21,M,Chia,28,true,Colpensiones,Inpec,Rechazado
+7649,195936,raul romero,39,F,Santa Rosa de Cabal,46,false,Colpensiones,Inpec,Rechazado
+6622,200383,olga rivas,33,F,Girardot,39,true,Colpensiones,Mininterior,Rechazado
+2050,269882,andres soto,23,M,Armenia,56,false,Colpensiones,Minsalud,Rechazado
+453,830937,roberto vazquez,53,M,Pasto,38,false,Colpensiones,Armada,Rechazado
+1225,566568,ivan montoya,57,M,Villavicencio,57,true,Fondo extranjero,Mininterior,Rechazado
+9560,315007,ivan pardo,46,F,Manizales,24,false,Colpensiones,Armada,Rechazado
+3943,982592,violeta castillo,59,F,Neiva,43,false,Colpensiones,Mininterior,Rechazado
+7993,764781,eduardo murillo,20,F,Florencia,36,false,Colpensiones,Mininterior,Rechazado
+7801,743697,juanita ruiz,47,M,Popayan,46,false,Colpensiones,Minsalud,Rechazado
+9578,157517,oscar hernandez,55,F,Leticia,55,false,Colpensiones,Null,Rechazado

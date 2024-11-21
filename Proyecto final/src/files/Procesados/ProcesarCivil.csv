@@ -1,0 +1,20 @@
+id_cotizante,cedula,nombre,edad,genero,ciudad,semanasCotizadas,declaraRenta,fondoPensiones,entidadPublica,estadoSolicitud
+2619,499614,jorge cruz,36,M,Cali,45,false,Colpensiones,Armada,Rechazado
+471,131146,luisana salazar,32,M,Villavicencio,35,false,Colpensiones,Null,Aprobado
+232,490978,ivonne pinto,20,M,Armenia,38,true,Colpensiones,Inpec,Aprobado
+6223,563237,yolanda marin,38,M,Pitalito,53,false,Colpensiones,Armada,Aprobado
+8027,988036,javier reyes,33,M,Cucuta,21,true,Colpensiones,Policia,Aprobado
+6183,317648,roberto alfaro,47,F,Valledupar,25,false,Colpensiones,Policia,Aprobado
+54,260932,david gonzalez,49,M,Bucaramanga,45,true,Fondo extranjero,Minsalud,Rechazado
+3235,103549,mariana soto,22,F,Cucuta,39,false,Colpensiones,Minsalud,Rechazado
+3540,631993,victor flores,24,M,Leticia,59,false,Colpensiones,Armada,Rechazado
+4393,887515,violeta sarmiento,49,M,Barranquilla,33,false,Colpensiones,Minsalud,Aprobado
+6622,200383,olga rivas,33,F,Girardot,39,true,Colpensiones,Mininterior,Rechazado
+9560,315007,ivan pardo,46,F,Manizales,24,false,Colpensiones,Armada,Rechazado
+3943,982592,violeta castillo,59,F,Neiva,43,false,Colpensiones,Mininterior,Rechazado
+9213,465205,karla castro,56,M,Quibdo,54,false,Colpensiones,Policia,Aprobado
+8432,925141,daniel ruiz,49,M,Cartagena,44,true,Colpensiones,Null,Aprobado
+9883,954893,karla pineda,46,M,Riohacha,47,true,Null,Null,Rechazado
+571,468137,carlos moreno,59,F,Florencia,44,false,Colpensiones,Armada,Aprobado
+214,565275,leonardo bautista,30,F,Soacha,48,false,Colpensiones,Null,Aprobado
+8169,999366,luis vega,51,M,Tunja,32,true,Colpensiones,Mininterior,Aprobado

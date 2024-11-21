@@ -1,0 +1,4 @@
+id_cotizante,tipoInstitucion,sanciones,condecoraciones,hijos,familiaPolicia,prePension
+1,Armada,false,true,false,true,true
+2,INPEC,true,false,true,false,false
+3,Policia,false,false,true,true,false
